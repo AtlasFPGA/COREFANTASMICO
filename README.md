@@ -13,3 +13,4 @@ indicar el modelo de monitor/televisor hdmi que se vea o no nos será muy útil 
 Si el monitor o televisor es compatible con este wrapper tiene que verse la siguiente imagen.
 
 
+![core fantasmico](https://github.com/AtlasFPGA/COREFANTASMICO/blob/main/IMAGENES/Core%20de%20prueba%20Miguel%20%C3%81ngel%20portado%20a%20ATLAS%20V001%20%26%20V002.jpg)
